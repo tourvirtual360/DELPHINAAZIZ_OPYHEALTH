@@ -12,7 +12,9 @@ tour.name = Opy Health
 
 ### Button
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Imagem Aérea
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.pressedLabel = Imagem Aérea
 Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Imagem Aérea
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.pressedLabel = Imagem Aérea
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Administração OPY Health
 Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Administração OPY Health
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Engenharia Clínica
@@ -23,8 +25,8 @@ Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Almoxarifado
 Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Almoxarifado
 Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Reabilitação de Funcionários
 Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Reabilitação de Funcionários
-Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Centro de Controle de Operações
-Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Centro de Controle de Operações
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Centro de Cont. de Operações
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Centro de Cont. de Operações
 Button_B2324DEF_A1E7_4EEE_41E1_F6A3334F6E23.label = Centro de Material Esterilizado
 Button_B2324DEF_A1E7_4EEE_41E1_F6A3334F6E23_mobile.label = Centro de Material Esterilizado
 Button_B445657D_A1ED_FFF2_41D2_6872BD0F378E.label = Verde Vida - Jardim Terapêutico
@@ -227,7 +229,9 @@ panorama_34AFF5E4_3A0D_F5C4_41B5_A8992C3C7911.label = IMG_20240224_103714_00_mer
 panorama_34AFF74D_3A0C_36C7_41AD_8F33B97432EB.label = IMG_20240224_103423_00_merged
 panorama_354ECF7C_3A04_D6C4_41AD_F5CFB946B09B.label = IMG_20240224_090408_00_merged
 panorama_4A254286_451E_DF58_41D0_B559ABB8D916.label = IMG_6595
+panorama_7019A0EC_57FE_EA0F_41D4_6D438494A11D.label = DJI_0229
 panorama_733FD101_3539_F7F2_41C8_DE7BA87F2A17.label = PANORAMICADELPHINA
+panorama_7DECAE7F_57FE_760A_419C_9FC833F23257.label = DJI_0228
 photo_1BB91C27_3558_8E3F_41C8_5C484746E380.label = WhatsApp Image 2021-11-19 at 04.17.22 (1)
 video_125A5180_36C8_96F2_41A6_CC6FCBB8C3E8.label = Video Aereo Delphina
 
