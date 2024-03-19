@@ -3,7 +3,7 @@
 ## Tour
 
 ### Description
-tour.description = Delphina Aziz
+tour.description = Tour 360° Delphina Aziz
 
 ### Title
 tour.name = Opy Health 
