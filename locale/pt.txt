@@ -71,7 +71,7 @@ Button_F74AB056_A63D_B984_41C3_961B1B597557.label = 6° Andar
 Button_F74AB056_A63D_B984_41C3_961B1B597557_mobile.label = 6° Andar
 
 ### Multiline Text
-HTMLText_4323F7EE_5BB9_B9B7_411C_B4F164095F70.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:10.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f25d27;font-size:18px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_4323F7EE_5BB9_B9B7_411C_B4F164095F70.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:10.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f25d27;font-size:12px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Media
 
