@@ -257,3 +257,9 @@ HotspotPanoramaOverlayArea_56B374AE_4533_44AB_41BA_8257CF14660D.toolTip = IR PAR
 HotspotPanoramaOverlayArea_56DBA04F_4535_3BE8_41D0_45443E39578F.toolTip = IR PARA ENTRADA FUNCIONÁRIOS
 HotspotPanoramaOverlayArea_5AAB0222_451D_3F5B_41C4_831E4497F620.toolTip = IR PARA PRÓXIMO
 HotspotPanoramaOverlayArea_5B86F855_452F_4BF9_418E_82683008174D.toolTip = IR PARA LAVANDERIA
+
+## Action
+
+### URL
+LinkBehaviour_4876CDDF_5915_EA94_41C1_433F3497F4C9.source = https://opyhealth.com.br/
+LinkBehaviour_49CE2594_597B_1B6B_41D5_5A36D2980E0D.source = https://opyhealth.com.br/
