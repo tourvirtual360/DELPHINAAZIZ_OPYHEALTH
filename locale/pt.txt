@@ -20,9 +20,9 @@ Button_15E8884F_0282_21CF_418D_434483B7A295_mobile.label = Laboratório
 Button_1F5EC789_0282_2F33_418E_3A107DECD43B.label = Estaçao de tratamento de efluentes
 Button_1F5EC789_0282_2F33_418E_3A107DECD43B_mobile.label = Estaçao de tratamento de efluentes
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Recepção Administrativa
-Button_7DB31382_7065_343F_41D6_641BBE1B2562.pressedLabel = Imagem Aérea
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.pressedLabel = Recepção Administrativa
 Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Recepção Administrativa
-Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.pressedLabel = Imagem Aérea
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.pressedLabel = Recepçãol Administrativa
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Administração OPY
 Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Administração OPY
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Engenharia Clínica
@@ -78,16 +78,22 @@ Button_F74AB056_A63D_B984_41C3_961B1B597557_mobile.label = 6° Andar - Setor de 
 
 ### Multiline Text
 HTMLText_22437A0E_0282_614E_4144_291159B721D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
-HTMLText_229A5E73_0282_21D7_4162_B0250AE75E08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_229A5E73_0282_21D7_4162_B0250AE75E08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
 
 ## Media
 
 ### Title
 panorama_09ACED0F_3F29_65C3_41BB_4C91A86BA1E3.label = Centro Cirúrgico
-panorama_101BC061_36DB_B632_41B2_70FE1D769362.label = Gases Geradores
-panorama_12809550_36D8_9E12_41B9_85F51B933BF9.label = Gases Geradores
-panorama_128B4DDF_36D8_8E0F_41B7_1219967C1204.label = Gases Geradores
-panorama_128E6699_36D8_7A13_41BC_47E06A30C17C.label = Gases Geradores
+panorama_101BC061_36DB_B632_41B2_70FE1D769362.label = Central Utilidades
+panorama_12809550_36D8_9E12_41B9_85F51B933BF9.label = Central Utilidades
+panorama_12812102_36D8_97F1_41A3_369FDA4087E9.label = Central Utilidades
+panorama_1283006D_36D8_9633_41C2_B5AF7922CBBC.label = Central Utilidades
+panorama_128B4DDF_36D8_8E0F_41B7_1219967C1204.label = Central Utilidades
+panorama_128DCC02_36D9_8DF6_41C0_888479A3F401.label = Central Utilidades
+panorama_128E4203_36D9_95F6_41C1_38D75184940E.label = Central Utilidades
+panorama_128E6699_36D8_7A13_41BC_47E06A30C17C.label = Central Utilidades
+panorama_129BF1B8_36DF_9611_41B1_B36A64061355.label = Central Utilidades
+panorama_129F035E_36D8_9A11_4190_B440D0250DFC.label = Central Utilidades
 panorama_12EED3B6_36D8_7A11_41C5_79B508ABBBD6.label = ETE
 panorama_1452E5B5_36F8_FE13_41C5_1B68B648F460.label = Fármacia
 panorama_1C062060_3F29_5C7D_41C5_9A6BDEFB97C4.label = Centro Cirúrgico
@@ -157,6 +163,7 @@ panorama_34A915CF_3A04_55C3_41C0_A42D91F75B13.label = Recepçao
 panorama_34A94918_3A04_DA4C_41C7_98163CDE415D.label = Sala de Espera
 panorama_34A96776_3A04_56C4_41AC_FAF9D2473C28.label = Sala de Espera
 panorama_34A98ECE_3A0B_D7C7_41BC_3A566268C479.label = Refeitório
+panorama_34A9ABE4_3A04_5DC4_41A2_ABC89C10962E.label = Corredor
 panorama_34A9DD5B_3A04_5ACC_419C_EE2D9923FF96.label = Refeitório
 panorama_34AA9D28_3A0D_DA4C_419A_BA0F0C533264.label = CCO
 panorama_34AB1057_3A0C_4AC4_41BB_6C9114534CE8.label = Fármacia
@@ -175,9 +182,13 @@ panorama_34ABCB10_3A0B_FE5C_41BA_3EE0D5CF11A0.label = Lavanderia
 panorama_34ABFDA7_3A04_3A44_41C0_D0F1B89C7376.label = CME
 panorama_34ABFF16_3A04_F644_41CC_B2CEF0E31F65.label = CME
 panorama_34ACD1AF_3A0C_4A44_41C2_071E9CBB2E0B.label = Fármacia
+panorama_34AD0BD2_3A0C_5DDC_41C6_A85E0AB82668.label = Corredor
 panorama_34AD1EF1_3A0D_D7DC_41C7_FDE9C8A669C4.label = Entrada CCO
 panorama_34AD55D3_3A0C_55DD_41B4_1E5FE20BBA6A.label = Reabilitação Pacientes
+panorama_34AD7A49_3A0C_5ECC_41BE_7DA8280EF5C8.label = Corredor
 panorama_34AD84F2_3A0C_4BDC_41BC_60D63C0C572A.label = Reabilitação Pacientes
+panorama_34ADE76C_3A0C_D6C4_41C2_14B0B44771EB.label = Reabilitação Pacientes
+panorama_34ADF84E_3A0C_DAC7_41C9_6E308EF2BE26.label = Reabilitação Pacientes
 panorama_34AE0672_3A0C_36DC_41BC_93AB9FFDEC86.label = Tomozinha
 panorama_34AE0948_3A0C_7ACB_41CC_02646E1A2EFE.label = Corredor
 panorama_34AE4A8D_3A0C_3E44_41B6_236518261AF6.label = Piscina Aquecida
@@ -185,6 +196,7 @@ panorama_34AE60D8_3A0C_4BCB_41C6_370578027785.label = Recepção
 panorama_34AE90AE_3A0C_4A44_41C2_4033F2D77FFC.label = Reabilitação Pacientes
 panorama_34AEA1E2_3A0F_CDFC_41BF_EF4642AA72EA.label = Reabilitação Pacientes
 panorama_34AEA39B_3A0F_CE4C_41BA_D83FD500E7D0.label = Reabilitação Pacientes
+panorama_34AEAD28_3A0C_3A4C_419A_87528C3276E6.label = Corredor
 panorama_34AEC41A_3A0C_CA4C_41CB_502F39E7E54A.label = Ressonância
 panorama_34AED4D9_3A0C_CBCC_41B8_A38B1557F8D9.label = Tomografia
 panorama_34AEFF04_3A0C_7644_41BD_80F0F2A8CC48.label = Reabilitação Pacientes
@@ -193,7 +205,7 @@ panorama_34AFF74D_3A0C_36C7_41AD_8F33B97432EB.label = Corredor
 panorama_354ECF7C_3A04_D6C4_41AD_F5CFB946B09B.label = Entrada Administrativa
 panorama_7019A0EC_57FE_EA0F_41D4_6D438494A11D.label = Foto Aérea
 panorama_7DECAE7F_57FE_760A_419C_9FC833F23257.label = Foto Aérea
-panorama_8EC50FD1_8250_AE24_41CB_E0F9BBBE47BB.label = IMG_6847
+panorama_8EC50FD1_8250_AE24_41CB_E0F9BBBE47BB.label = Corredor
 panorama_921A2FBE_8271_6E5F_41D5_39E5ACF4CFC8.label = Externa
 photo_1BB91C27_3558_8E3F_41C8_5C484746E380.label = WhatsApp Image 2021-11-19 at 04.17.22 (1)
 
