@@ -11,46 +11,52 @@ tour.name = Opy Health
 ## Skin
 
 ### Button
-Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Imagem Aérea
+Button_12243C7D_0282_61D3_413E_4944DF1637C0.label = Verde Vida - Jardim Terapêutico
+Button_12243C7D_0282_61D3_413E_4944DF1637C0_mobile.label = Verde Vida - Jardim Terapêutico
+Button_1299BFDF_028E_3ECE_4172_B1AD6975962E.label = Almoxarifado Opy Health
+Button_1299BFDF_028E_3ECE_4172_B1AD6975962E_mobile.label = Almoxarifado Opy Health
+Button_15E8884F_0282_21CF_418D_434483B7A295.label = Laboratório
+Button_15E8884F_0282_21CF_418D_434483B7A295_mobile.label = Laboratório
+Button_1F5EC789_0282_2F33_418E_3A107DECD43B.label = Estaçao de tratamento de efluentes
+Button_1F5EC789_0282_2F33_418E_3A107DECD43B_mobile.label = Estaçao de tratamento de efluentes
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Recepção Administrativa
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.pressedLabel = Imagem Aérea
-Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Imagem Aérea
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Recepção Administrativa
 Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.pressedLabel = Imagem Aérea
-Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Administração OPY Health
-Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Administração OPY Health
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Administração OPY
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Administração OPY
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Engenharia Clínica
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Engenharia Clínica
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Engenharia Clínica
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Engenharia Clínica
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Almoxarifado
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Almoxarifado
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Almoxarifado Hospital
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Almoxarifado Hospital
 Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Reabilitação de Funcionários
 Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Reabilitação de Funcionários
 Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Centro de Controle de Operações
-Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Centro de Cont. de Operações
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Centro de Controle de Operações
 Button_B2324DEF_A1E7_4EEE_41E1_F6A3334F6E23.label = Centro de Material Esterilizado
 Button_B2324DEF_A1E7_4EEE_41E1_F6A3334F6E23_mobile.label = Centro de Material Esterilizado
 Button_B445657D_A1ED_FFF2_41D2_6872BD0F378E.label = Verde Vida - Jardim Terapêutico
 Button_B445657D_A1ED_FFF2_41D2_6872BD0F378E_mobile.label = Verde Vida - Jardim Terapêutico
-Button_B4684895_A1ED_D532_41E2_DBB467ABAE02.label = Recepção Ambulatório
-Button_B4684895_A1ED_D532_41E2_DBB467ABAE02_mobile.label = Recepção Ambulatório
 Button_B4973DF6_A1ED_CEFE_41E1_650E964F1775.label = Recepção Atrium
 Button_B4973DF6_A1ED_CEFE_41E1_650E964F1775_mobile.label = Recepção Atrium
-Button_B4B61AB7_A1E3_B57E_41DA_1662D04397EB.label = Recepção Administrativa
-Button_B4B61AB7_A1E3_B57E_41DA_1662D04397EB_mobile.label = Recepção Administrativa
+Button_B4B61AB7_A1E3_B57E_41DA_1662D04397EB.label = Recepção Ambulatório
+Button_B4B61AB7_A1E3_B57E_41DA_1662D04397EB_mobile.label = Recepção Ambulatório
 Button_B4CDD4E6_A1E3_DD1F_41E2_27F0CDE4839B.label = Serviço de Apoio e Diagnóstico Terapêutico
 Button_B4CDD4E6_A1E3_DD1F_41E2_27F0CDE4839B_mobile.label = Serviço de Apoio e Diagnóstico Terapêutico
-Button_B4F77757_A1E3_BB3E_41C8_FF5822301064.label = Gases Geradores
-Button_B4F77757_A1E3_BB3E_41C8_FF5822301064_mobile.label = Gases Geradores
-Button_B50BDA87_A1E3_D51E_41D3_77BC0DAC64A2.label = Estação de Tratamento de Efluentes
-Button_B50BDA87_A1E3_D51E_41D3_77BC0DAC64A2_mobile.label = Estação de Tratamento de Efluentes
-Button_B51F140A_A223_5D16_41CA_E3BE7D743F79.label = Snoopy - Nós cuidados de nossos cães
-Button_B51F140A_A223_5D16_41CA_E3BE7D743F79_mobile.label = Snoopy - Nós cuidados de nossos cães
+Button_B4F77757_A1E3_BB3E_41C8_FF5822301064.label = Central de Utilidades
+Button_B4F77757_A1E3_BB3E_41C8_FF5822301064_mobile.label = Central de Utilidades
+Button_B50BDA87_A1E3_D51E_41D3_77BC0DAC64A2.label = Lava Car
+Button_B50BDA87_A1E3_D51E_41D3_77BC0DAC64A2_mobile.label = Lava Car
+Button_B51F140A_A223_5D16_41CA_E3BE7D743F79.label = Projeto Snoopy
+Button_B51F140A_A223_5D16_41CA_E3BE7D743F79_mobile.label = Projeto Snoopy
 Button_B52FB1CF_A1E3_D72E_41E2_7436A614B7CE.label = Sala de Ressonância
 Button_B52FB1CF_A1E3_D72E_41E2_7436A614B7CE_mobile.label = Sala de Ressonância
 Button_B54F9748_A1E4_DB12_41E2_D4ECF1E46B26.label = Centro de Reabilitação e Fisioterapia
 Button_B54F9748_A1E4_DB12_41E2_D4ECF1E46B26_mobile.label = Centro de Reabilitação e Fisioterapia
-Button_B54FDC81_A223_4D12_41E0_7CA2ED71DAA9.label = Lava Car
-Button_B54FDC81_A223_4D12_41E0_7CA2ED71DAA9_mobile.label = Lava Car
+Button_B54FDC81_A223_4D12_41E0_7CA2ED71DAA9.label = 1° Andar - Hosp. Dia
+Button_B54FDC81_A223_4D12_41E0_7CA2ED71DAA9_mobile.label = 1° Andar - Hosp. Dia
 Button_B555B037_A1E3_F57E_41E1_EBD0FA24E35B.label = Sala de Tomografia
 Button_B555B037_A1E3_F57E_41E1_EBD0FA24E35B_mobile.label = Sala de Tomografia
 Button_B57241C0_A1E7_B712_41D1_0769073E2003.label = Heliponto
@@ -59,19 +65,20 @@ Button_B58AC9E8_A1E4_F712_41C2_3C63BAFC0C76.label = Nutrição e Dietética
 Button_B58AC9E8_A1E4_F712_41C2_3C63BAFC0C76_mobile.label = Nutrição e Dietética
 Button_B5A9D9E7_A1E7_771E_41D8_4415175D76CD.label = Centro Cirúrgico
 Button_B5A9D9E7_A1E7_771E_41D8_4415175D76CD_mobile.label = Centro Cirúrgico
-Button_F525D1BF_A623_5A84_41C9_C9CC0437B851.label = 2° Andar
-Button_F525D1BF_A623_5A84_41C9_C9CC0437B851_mobile.label = 2° Andar
-Button_F6396BB6_A63D_4E84_41E3_3BED0F8FFBAB.label = 5° Andar
-Button_F6396BB6_A63D_4E84_41E3_3BED0F8FFBAB_mobile.label = 5° Andar
-Button_F6403FF9_A63C_C68C_41CD_83B9FD660DDD.label = 4° Andar
-Button_F6403FF9_A63C_C68C_41CD_83B9FD660DDD_mobile.label = 4° Andar
-Button_F6961D5B_A63C_CB8C_41D5_30C1769E8075.label = 3° Andar
-Button_F6961D5B_A63C_CB8C_41D5_30C1769E8075_mobile.label = 3° Andar
-Button_F74AB056_A63D_B984_41C3_961B1B597557.label = 6° Andar
-Button_F74AB056_A63D_B984_41C3_961B1B597557_mobile.label = 6° Andar
+Button_F525D1BF_A623_5A84_41C9_C9CC0437B851.label = 2° Andar - Setor Cirúrgico
+Button_F525D1BF_A623_5A84_41C9_C9CC0437B851_mobile.label = 2° Andar - Setor Cirúrgico
+Button_F6396BB6_A63D_4E84_41E3_3BED0F8FFBAB.label = 5° Andar - Setor Clínico
+Button_F6396BB6_A63D_4E84_41E3_3BED0F8FFBAB_mobile.label = 5° Andar - Setor Clínico
+Button_F6403FF9_A63C_C68C_41CD_83B9FD660DDD.label = 4° Andar - Setor Clínico
+Button_F6403FF9_A63C_C68C_41CD_83B9FD660DDD_mobile.label = 4° Andar - Setor Clínico
+Button_F6961D5B_A63C_CB8C_41D5_30C1769E8075.label = 3° Andar - Setor Clínico e Cirurgico
+Button_F6961D5B_A63C_CB8C_41D5_30C1769E8075_mobile.label = 3° Andar - Setor Clínico e Cirurgico
+Button_F74AB056_A63D_B984_41C3_961B1B597557.label = 6° Andar - Setor de Transplante e Clínico
+Button_F74AB056_A63D_B984_41C3_961B1B597557_mobile.label = 6° Andar - Setor de Transplante e Clínico
 
 ### Multiline Text
-HTMLText_4323F7EE_5BB9_B9B7_411C_B4F164095F70.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:10.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f25d27;font-size:16px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_22437A0E_0282_614E_4144_291159B721D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_229A5E73_0282_21D7_4162_B0250AE75E08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
 
 ## Media
 
@@ -216,5 +223,5 @@ HotspotPanoramaOverlayArea_5B86F855_452F_4BF9_418E_82683008174D.toolTip = IR PAR
 ## Action
 
 ### URL
-LinkBehaviour_4876CDDF_5915_EA94_41C1_433F3497F4C9.source = https://opyhealth.com.br/
+LinkBehaviour_1CC90E05_0286_6133_4162_0FDAB2C0E198.source = https://opyhealth.com.br/
 LinkBehaviour_49CE2594_597B_1B6B_41D5_5A36D2980E0D.source = https://opyhealth.com.br/
