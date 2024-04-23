@@ -216,6 +216,11 @@ panorama_7DECAE7F_57FE_760A_419C_9FC833F23257.label = Foto Aérea
 panorama_8EC50FD1_8250_AE24_41CB_E0F9BBBE47BB.label = Corredor
 panorama_921A2FBE_8271_6E5F_41D5_39E5ACF4CFC8.label = Externa
 
+## Popup
+
+### Body
+htmlText_2DB623B7_0820_B5A9_41A1_1286917A732D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Local destinado a recepção de serviços, colaboradores, terceiros, visitantes e autoridades.</SPAN></DIV></BODY></HTML></div>
+
 ## Hotspot
 
 ### Tooltip
@@ -235,4 +240,6 @@ HotspotPanoramaOverlayArea_5B86F855_452F_4BF9_418E_82683008174D.toolTip = IR PAR
 
 ### URL
 LinkBehaviour_1CC90E05_0286_6133_4162_0FDAB2C0E198.source = https://opyhealth.com.br/
+LinkBehaviour_2021910B_09E0_D279_4181_E868C800DF7E.source = https://opyhealth.com.br/
+LinkBehaviour_2226CA86_09E1_B66B_4192_CDE7415ACC98.source = https://opyhealth.com.br/
 LinkBehaviour_49CE2594_597B_1B6B_41D5_5A36D2980E0D.source = https://opyhealth.com.br/
