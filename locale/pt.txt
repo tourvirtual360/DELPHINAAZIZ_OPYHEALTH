@@ -11,14 +11,14 @@ tour.name = Opy Health
 ## Skin
 
 ### Button
-Button_12243C7D_0282_61D3_413E_4944DF1637C0.label = Verde Vida - Jardim Terapêutico
-Button_12243C7D_0282_61D3_413E_4944DF1637C0_mobile.label = Verde Vida - Jardim Terapêutico
+Button_12243C7D_0282_61D3_413E_4944DF1637C0.label = Farmácia
+Button_12243C7D_0282_61D3_413E_4944DF1637C0_mobile.label = Farmácia
 Button_1299BFDF_028E_3ECE_4172_B1AD6975962E.label = Almoxarifado Opy Health
 Button_1299BFDF_028E_3ECE_4172_B1AD6975962E_mobile.label = Almoxarifado Opy Health
 Button_15E8884F_0282_21CF_418D_434483B7A295.label = Laboratório
 Button_15E8884F_0282_21CF_418D_434483B7A295_mobile.label = Laboratório
-Button_1F5EC789_0282_2F33_418E_3A107DECD43B.label = Estaçao de tratamento de efluentes
-Button_1F5EC789_0282_2F33_418E_3A107DECD43B_mobile.label = Estaçao de tratamento de efluentes
+Button_1F5EC789_0282_2F33_418E_3A107DECD43B.label = Estação de tratamento de efluentes
+Button_1F5EC789_0282_2F33_418E_3A107DECD43B_mobile.label = Estação de tratamento de efluentes
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Recepção Administrativa
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.pressedLabel = Recepção Administrativa
 Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Recepção Administrativa
@@ -77,13 +77,14 @@ Button_F74AB056_A63D_B984_41C3_961B1B597557.label = 6° Andar - Setor de Transpl
 Button_F74AB056_A63D_B984_41C3_961B1B597557_mobile.label = 6° Andar - Setor de Transplante e Clínico
 
 ### Multiline Text
-HTMLText_22437A0E_0282_614E_4144_291159B721D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
-HTMLText_229A5E73_0282_21D7_4162_B0250AE75E08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_22437A0E_0282_614E_4144_291159B721D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_229A5E73_0282_21D7_4162_B0250AE75E08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
 
 ## Media
 
 ### Title
 panorama_09ACED0F_3F29_65C3_41BB_4C91A86BA1E3.label = Centro Cirúrgico
+panorama_0DA7CB46_35F7_8A71_41BB_B43BA6E916E0.label = Entrada SADT
 panorama_101BC061_36DB_B632_41B2_70FE1D769362.label = Central Utilidades
 panorama_12809550_36D8_9E12_41B9_85F51B933BF9.label = Central Utilidades
 panorama_12812102_36D8_97F1_41A3_369FDA4087E9.label = Central Utilidades
@@ -94,7 +95,7 @@ panorama_128E4203_36D9_95F6_41C1_38D75184940E.label = Central Utilidades
 panorama_128E6699_36D8_7A13_41BC_47E06A30C17C.label = Central Utilidades
 panorama_129BF1B8_36DF_9611_41B1_B36A64061355.label = Central Utilidades
 panorama_129F035E_36D8_9A11_4190_B440D0250DFC.label = Central Utilidades
-panorama_12EED3B6_36D8_7A11_41C5_79B508ABBBD6.label = ETE
+panorama_12EED3B6_36D8_7A11_41C5_79B508ABBBD6.label = Estaçao de Tratamento de Efluentes
 panorama_1452E5B5_36F8_FE13_41C5_1B68B648F460.label = Fármacia
 panorama_1C062060_3F29_5C7D_41C5_9A6BDEFB97C4.label = Centro Cirúrgico
 panorama_1C094C8F_3F29_E4C3_41BD_F8F1062AEA47.label = Centro Cirúrgico
@@ -106,6 +107,8 @@ panorama_2F5E84F5_3F69_2447_41B5_375783EE3DC1.label = Tratamento de Residuos
 panorama_32560905_3F3B_2DC6_41C9_B27E6CF34662.label = Recepção Atrium
 panorama_3344B58A_3F39_24CD_41BE_FCAE7CCBC574.label = Recepção Ambulatório
 panorama_33463654_3F39_2445_41A1_90D171D4B86C.label = GastrOPY
+panorama_3346635A_3F39_7C4D_41CA_A1C179E431A2.label = Corredor
+panorama_33467F26_3F39_25C5_4167_60BF30724E73.label = Corredor
 panorama_33469A45_3F39_6C47_41CD_58377FA5F233.label = Recepção Transplantes
 panorama_3347DC5D_3F27_2447_41BA_F0321FEF60CD.label = Almoxarifado
 panorama_3347F94A_3F38_EC4D_41B6_0EE25AB0AFE9.label = Almoxarifado
@@ -129,6 +132,7 @@ panorama_349D4F9E_3A04_5647_41C8_6CDE3A998F81.label = Fachada
 panorama_349DB6FF_3A04_F7C4_418C_3A7C5BC701D5.label = Portaria
 panorama_349DF09A_3A04_4A4C_41B2_4DD0594F9DE3.label = Parada Delphina Aziz
 panorama_349F2A05_3A04_3E44_41B3_408AAA7B16B3.label = SND
+panorama_349F5501_3A04_4A3C_41BC_F7D057F23A9A.label = Externa
 panorama_349F99C9_3A04_FDCC_41B2_38184E919A7C.label = SND
 panorama_349FA404_3A04_4A44_41A9_5ABF95C53738.label = SND
 panorama_349FD5E3_3A04_75C3_41CB_5AD4FCECE558.label = SND
@@ -146,6 +150,7 @@ panorama_34A4E217_3A04_4E45_4191_9E53B15B2AAD.label = Corredor
 panorama_34A4E357_3A04_4EC5_41BD_6EED24126DA5.label = Corredor
 panorama_34A4EEF1_3A04_37DC_41B9_D638BCE04CF4.label = Administração OPY
 panorama_34A55008_3A04_4A4C_41C0_A4542231DE33.label = Engenharia Clínica
+panorama_34A58900_3A04_5A3C_41B3_88AD6157BA48.label = Almoxarifado OPY
 panorama_34A5EACB_3A04_5FCC_41C9_6E328503BBF8.label = Manutenção
 panorama_34A5ECFA_3A04_DBCC_41C3_6219047DC806.label = Manutenção
 panorama_34A717A9_3A04_364C_41C9_52FCDB367134.label = Reabilitação Funcionários
@@ -192,6 +197,7 @@ panorama_34ADF84E_3A0C_DAC7_41C9_6E308EF2BE26.label = Reabilitação Pacientes
 panorama_34AE0672_3A0C_36DC_41BC_93AB9FFDEC86.label = Tomozinha
 panorama_34AE0948_3A0C_7ACB_41CC_02646E1A2EFE.label = Corredor
 panorama_34AE4A8D_3A0C_3E44_41B6_236518261AF6.label = Piscina Aquecida
+panorama_34AE5580_3A0C_4A3C_41C1_D8C15A7153AD.label = Sala de Controle SADT
 panorama_34AE60D8_3A0C_4BCB_41C6_370578027785.label = Recepção
 panorama_34AE90AE_3A0C_4A44_41C2_4033F2D77FFC.label = Reabilitação Pacientes
 panorama_34AEA1E2_3A0F_CDFC_41BF_EF4642AA72EA.label = Reabilitação Pacientes
@@ -203,19 +209,11 @@ panorama_34AEFF04_3A0C_7644_41BD_80F0F2A8CC48.label = Reabilitação Pacientes
 panorama_34AFF5E4_3A0D_F5C4_41B5_A8992C3C7911.label = Corrdor
 panorama_34AFF74D_3A0C_36C7_41AD_8F33B97432EB.label = Corredor
 panorama_354ECF7C_3A04_D6C4_41AD_F5CFB946B09B.label = Entrada Administrativa
+panorama_4A254286_451E_DF58_41D0_B559ABB8D916.label = Externa
 panorama_7019A0EC_57FE_EA0F_41D4_6D438494A11D.label = Foto Aérea
 panorama_7DECAE7F_57FE_760A_419C_9FC833F23257.label = Foto Aérea
 panorama_8EC50FD1_8250_AE24_41CB_E0F9BBBE47BB.label = Corredor
 panorama_921A2FBE_8271_6E5F_41D5_39E5ACF4CFC8.label = Externa
-photo_1BB91C27_3558_8E3F_41C8_5C484746E380.label = WhatsApp Image 2021-11-19 at 04.17.22 (1)
-
-## Popup
-
-### Body
-htmlText_1BA3CDE8_355B_8E31_41C3_4F309DDE8F0C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A Gestão Ambiental do Hospital Delphina Rinald Abdel Aziz tem como responsabilidade principal assegurar a preservação ambiental, trabalhando na prevenção de possíveis consequências negativas relacionadas aos processos de atendimento do hospital, agindo sempre em conformidade com os requisitos legais ambientais e a Vigilância Sanitária.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Atualmente, o Hospital Delphina Rinald Abdel Aziz é o único que detém a Licença de Operação Ambiental do Instituto de Proteção Ambiental do Amazonas (IPAAM) e é certificado com o Selo Aqua - HQE, primeira norma brasileira em construção sustentável, garantindo aos funcionários e usuários do estabelecimento um ambiente saudável e seguro.</SPAN></DIV></BODY></HTML></div>
-
-### Title
-window_45235B69_69D3_F7C2_41AE_4559FD64E03B.title = OZN Sustentabilidade
 
 ## Hotspot
 
