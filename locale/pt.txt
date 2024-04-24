@@ -216,31 +216,13 @@ panorama_7DECAE7F_57FE_760A_419C_9FC833F23257.label = Foto Aérea
 panorama_8EC50FD1_8250_AE24_41CB_E0F9BBBE47BB.label = Corredor
 panorama_921A2FBE_8271_6E5F_41D5_39E5ACF4CFC8.label = Externa
 
-## Popup
-
-### Body
-htmlText_2DB623B7_0820_B5A9_41A1_1286917A732D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">Local destinado a recepção de serviços, colaboradores, terceiros, visitantes e autoridades.</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_3A28016D_0860_D2B9_41A0_D6D113C0E6F8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">Setor responsável pelo recebimento, armazenamento e distribuição de materiais e insumos necessários para a manutenção e administração do hospital.</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_3A7B5EBE_0863_EF9B_4193_F8268D1EAC45.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">Setor responsável por toda gestão de todos os equipamentos médicos do hospital, atuamos desde o planejamento para aquisição de novas tecnologias, acompanhamento de sua vida útil como calibração, preventiva e segurança elétrica, treinamentos entre outros, garantindo o bom funcionamento dos equipamentos.</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_3A7D8999_0860_B599_41A1_D1B206441F51.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">O Centro de Controle de Operação é a centralização de todas as informações no que dizem respeito a monitoramento das atividades desenvolvidas na unidade hospitalar, a centralização das informações em um único local facilita o gerenciamento e controle de todas as operações ao mesmo tempo, deixando todas as ações visualmente integrada e organizada.</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_3AD59EF0_0860_EFA7_4197_07DDEBC25BC2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">Espaço revitalizado para cuidado especial aos nossos pacientes e convivência dos colaboradores.</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_3B5E52E3_0860_57A9_41A1_7FB95A2A1516.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">Setor responsável pelo armazenamento e distribuição de materiais e insumos médicos necessários para o funcionamento do hospital.</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_3B73D421_0860_B2A9_4194_F7CAA7FAF7C6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;">Espaço dedicado à recuperação física e reabilitação de colaboradores e terceiros, com terapias personalizadas.</SPAN></SPAN></DIV></BODY></HTML></div>
-
-### Title
-window_3C87A7FD_0823_FD99_417E_38BC94203EF8.title = Verde Vida - Jardim Terapêutico
-window_3C900DDC_0820_6D9F_4169_B03C1391F712.title = Engenharia Clínica
-window_3CC21EDE_0820_6F9B_41A0_FEE348CD03A9.title = Almoxarifado Hospital
-window_3CEADC2A_0820_B2BB_419B_AB1236B51442.title = Centro de Controle de Operações
-window_3CFE0472_0820_F2A8_416F_B2EECC0FC2A2.title = Almoxarifado OPY Health
-window_3F42932B_0820_76B9_418A_76B0A6928978.title = Reabilitação de Funcionários
-window_3F4CDDE9_0820_EDB9_4170_3DF758D415AD.title = Recepção Administrativa
-
 ## Hotspot
 
 ### Tooltip
 HotspotPanoramaOverlayArea_06E4CCB1_4128_E4DF_41A6_FECF7CE9D5FB.toolTip = IR PARA ENTRADA FUNCIONÁRIOS
 HotspotPanoramaOverlayArea_1A451787_4179_24C3_41B6_6A362E733A00.toolTip = IR PARA PRÓXIMO
+HotspotPanoramaOverlayArea_1F67C760_0E44_A234_4160_877701F0BFA8.toolTip = SAIBA MAIS
+HotspotPanoramaOverlayArea_1FF8A9A7_0E7C_AE3C_4198_C4B000715E32.toolTip = SAIBA MAIS
 HotspotPanoramaOverlayArea_203D7643_4169_E443_41C2_1128D48B3FF3.toolTip = IR PARA PRÓXIMO
 HotspotPanoramaOverlayArea_285C95BD_3A04_4A44_41B5_F91E23B8A4D2.toolTip = ENTRAR
 HotspotPanoramaOverlayArea_2BBE6AF8_3A04_5FCC_417A_D1115C8FDB59.toolTip = IR PARA ADM OPY
