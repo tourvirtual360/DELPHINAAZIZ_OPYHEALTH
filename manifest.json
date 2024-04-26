@@ -1,8 +1,9 @@
 {
+ "theme_color": "#FFFFFF",
  "name": "Opy Health ",
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
  "description": "Tour 360° Delphina Aziz",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen",
- "theme_color": "#FFFFFF"
+ "display": "fullscreen"
 }
