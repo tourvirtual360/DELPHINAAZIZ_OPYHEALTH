@@ -11,12 +11,21 @@ tour.name = Opy Health
 ## Skin
 
 ### Button
+Button_0295B088_0D1B_3377_41A5_3DB826C5BDA5_mobile.label = Recepção Administrativa
+Button_0295B088_0D1B_3377_41A5_3DB826C5BDA5_mobile.pressedLabel = Recepçãol Administrativa
+Button_11D018B1_0DEB_1499_4184_D0C6455DE51A.label = Imagem Aérea
 Button_12243C7D_0282_61D3_413E_4944DF1637C0.label = Farmácia
 Button_12243C7D_0282_61D3_413E_4944DF1637C0_mobile.label = Farmácia
 Button_1299BFDF_028E_3ECE_4172_B1AD6975962E.label = Almoxarifado Opy Health
 Button_1299BFDF_028E_3ECE_4172_B1AD6975962E_mobile.label = Almoxarifado Opy Health
+Button_1311DD4F_0D19_0D89_41A8_DE6899233D96.label = Tomozinha
+Button_1383CB4B_0DE7_1589_41A4_1ACBFA50BEFE.label = GastrOPY
 Button_15E8884F_0282_21CF_418D_434483B7A295.label = Laboratório
 Button_15E8884F_0282_21CF_418D_434483B7A295_mobile.label = Laboratório
+Button_1D37B995_0D1B_1499_4133_536A5A62FCBE_mobile.label = Estação de tratamento de efluentes
+Button_1DD59AFB_0D19_1489_41A1_82FAF13B2DF1_mobile.label = Recepção Administrativa
+Button_1DD59AFB_0D19_1489_41A1_82FAF13B2DF1_mobile.pressedLabel = Recepçãol Administrativa
+Button_1E401683_0D27_1F78_4191_E461BEE779F6_mobile.label = Estação de tratamento de efluentes
 Button_1F5EC789_0282_2F33_418E_3A107DECD43B.label = Estação de tratamento de efluentes
 Button_1F5EC789_0282_2F33_418E_3A107DECD43B_mobile.label = Estação de tratamento de efluentes
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Recepção Administrativa
@@ -83,7 +92,6 @@ HTMLText_229A5E73_0282_21D7_4162_B0250AE75E08.html = <div style="text-align:left
 ## Media
 
 ### Title
-panorama_09ACED0F_3F29_65C3_41BB_4C91A86BA1E3.label = Centro Cirúrgico
 panorama_0DA7CB46_35F7_8A71_41BB_B43BA6E916E0.label = Entrada SADT
 panorama_101BC061_36DB_B632_41B2_70FE1D769362.label = Central Utilidades
 panorama_12809550_36D8_9E12_41B9_85F51B933BF9.label = Central Utilidades
@@ -103,7 +111,16 @@ panorama_1C0F0F3D_3F29_25C7_41B7_0688FD95FB1F.label = Centro Cirúrgico
 panorama_1C354275_3F28_DC47_41A6_CFE73A58B93B.label = Centro Cirúrgico
 panorama_1C3C61D9_3F28_DC4F_41A7_B78F32B04EF1.label = Centro Cirúrgico
 panorama_1C5A75AE_3F29_24C5_41C8_9B9E971EF317.label = Centro Cirúrgico
+panorama_2508A731_0D1B_3D99_4166_C41C13BD4B40.label = Corredor
+panorama_2544902D_0D19_3389_419F_422E29CBF4F4.label = Elevador 1° andar
+panorama_29A1C5EC_0D3B_3C8F_4185_6D2445C13615.label = Entrada elevaor centro cirurgico
+panorama_29B00D75_0D2B_0D99_4157_084AD403C710.label = Centro Cirúrgico
+panorama_2A34034E_0D19_158B_4194_BB6A37A99AF9.label = Terreo elevadores 1
+panorama_2B29C1E2_0D29_74B8_41A7_F79309B84F01.label = Corredor
+panorama_2CEFF637_0D2F_7F99_419B_5BD2C242BD94.label = 6° Andar - Transplante e Clínico
+panorama_2E50491D_0D29_3589_4196_807F202888AF.label = Corredor
 panorama_2F5E84F5_3F69_2447_41B5_375783EE3DC1.label = Tratamento de Residuos
+panorama_2FFA7F11_0D39_0D99_41A5_C5E25617C536.label = Elevador 1° andar
 panorama_32560905_3F3B_2DC6_41C9_B27E6CF34662.label = Recepção Atrium
 panorama_3344B58A_3F39_24CD_41BE_FCAE7CCBC574.label = Recepção Ambulatório
 panorama_33463654_3F39_2445_41A1_90D171D4B86C.label = GastrOPY
@@ -116,7 +133,6 @@ panorama_34958E4E_3A3C_56C7_41BE_C3DE112DA591.label = Heliponto
 panorama_3495E9F2_3A3F_DDDF_41B4_E35C591BD689.label = Heliponto
 panorama_34961DDF_3A3C_D5C4_41CC_608F729C03BA.label = 6° Andar - Transplante e Clínico
 panorama_34962FBA_3A3C_D64C_41C2_CAFDECE41ABA.label = 6° Andar - Transplante e Clínico
-panorama_3496A354_3A3C_4EC4_41C3_909ABEB0B545.label = 6° Andar - Transplante e Clínico
 panorama_3496C664_3A3D_F6C4_41C1_CF3E7E9B30F5.label = 5° Andar - Clínico
 panorama_34970B8A_3A3C_FE4C_41CB_725D3C2BA13E.label = 4° Andar - Clínico
 panorama_34971833_3A3C_7A5C_41C2_BD8537F487B4.label = 5° Andar - Clínico
@@ -221,7 +237,6 @@ panorama_34AD84F2_3A0C_4BDC_41BC_60D63C0C572A.label = Reabilitação Pacientes
 panorama_34ADE76C_3A0C_D6C4_41C2_14B0B44771EB.label = Reabilitação Pacientes
 panorama_34ADF84E_3A0C_DAC7_41C9_6E308EF2BE26.label = Reabilitação Pacientes
 panorama_34AE0672_3A0C_36DC_41BC_93AB9FFDEC86.label = Tomozinha
-panorama_34AE0948_3A0C_7ACB_41CC_02646E1A2EFE.label = Corredor
 panorama_34AE13C7_3A0C_4DC4_41CD_06C507F8E6EF.label = SADT
 panorama_34AE4A8D_3A0C_3E44_41B6_236518261AF6.label = Piscina Aquecida
 panorama_34AE5580_3A0C_4A3C_41C1_D8C15A7153AD.label = Sala de Controle SADT
@@ -239,7 +254,6 @@ panorama_354ECF7C_3A04_D6C4_41AD_F5CFB946B09B.label = Recepção Administrativa
 panorama_4A254286_451E_DF58_41D0_B559ABB8D916.label = Externa
 panorama_7019A0EC_57FE_EA0F_41D4_6D438494A11D.label = Foto Aérea Frente
 panorama_7DECAE7F_57FE_760A_419C_9FC833F23257.label = Foto Aérea Lateral
-panorama_8EC50FD1_8250_AE24_41CB_E0F9BBBE47BB.label = Corredor
 panorama_921A2FBE_8271_6E5F_41D5_39E5ACF4CFC8.label = Externa
 
 ## Hotspot
