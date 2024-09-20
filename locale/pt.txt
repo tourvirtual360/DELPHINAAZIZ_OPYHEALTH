@@ -11,7 +11,7 @@ tour.name = Opy Health
 ## Skin
 
 ### Button
-Button_0295B088_0D1B_3377_41A5_3DB826C5BDA5_mobile.label = Recepção Administrativa
+Button_0295B088_0D1B_3377_41A5_3DB826C5BDA5_mobile.label = Imagem Aérea
 Button_0295B088_0D1B_3377_41A5_3DB826C5BDA5_mobile.pressedLabel = Recepçãol Administrativa
 Button_11D018B1_0DEB_1499_4184_D0C6455DE51A.label = Imagem Aérea
 Button_12243C7D_0282_61D3_413E_4944DF1637C0.label = Farmácia
@@ -22,8 +22,8 @@ Button_1311DD4F_0D19_0D89_41A8_DE6899233D96.label = Tomozinha
 Button_1383CB4B_0DE7_1589_41A4_1ACBFA50BEFE.label = GastrOPY
 Button_15E8884F_0282_21CF_418D_434483B7A295.label = Laboratório
 Button_15E8884F_0282_21CF_418D_434483B7A295_mobile.label = Laboratório
-Button_1D37B995_0D1B_1499_4133_536A5A62FCBE_mobile.label = Estação de tratamento de efluentes
-Button_1E401683_0D27_1F78_4191_E461BEE779F6_mobile.label = Estação de tratamento de efluentes
+Button_1D37B995_0D1B_1499_4133_536A5A62FCBE_mobile.label = Tomozinha
+Button_1E401683_0D27_1F78_4191_E461BEE779F6_mobile.label = GastrOPY
 Button_1F5EC789_0282_2F33_418E_3A107DECD43B.label = Estação de tratamento de efluentes
 Button_1F5EC789_0282_2F33_418E_3A107DECD43B_mobile.label = Estação de tratamento de efluentes
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Recepção Administrativa
